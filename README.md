@@ -18,16 +18,16 @@ Projects:
 
 ESP32 Microcontroller predicting Water Hyacinth growth at HartbeesPoort Dam, collaborated with international students from Belgium--[https://github.com/LianBosman/Mega_Project]
 
-Student Management System
+Student Management System-
 [https://github.com/LianBosman/Bosman_Lian_PRG282_Project]
 
-Student Welness System
+Student Welness System-
 [https://github.com/LianBosman/PRG381-Project]
 
-Linear-Programming app solving business problems
+Linear-Programming app solving business problems-
 [https://github.com/LianBosman/LPR381Project]
 
-Local hosted website with Node.js, Express and EJS templating[https://github.com/LianBosman/Wpr381_Project]
+Local hosted website with Node.js, Express and EJS templating- [https://github.com/LianBosman/Wpr381_Project]
 
 
 
