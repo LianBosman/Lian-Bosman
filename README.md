@@ -2,22 +2,22 @@
 
 I am a 3rd-year Bachelor of Computing student at Belgium Campus ITversity, Stellenbosch, specialising in Software Engineering.
 
-Currently seeking internship/ graduate opportunities in software development
+**Currently seeking internship/ graduate opportunities in software development**
 
 
-Skills:
+**Skills:**
 Prorgamming: C#, Java, JavaScript, SQL, Node.js, HTML & CSS, Python ( touched on it with Machine Learning).
 
-Frameworks & Libraries:
+**Frameworks & Libraries:**
 Express.js, Java (Swing), Apache Derby (JavaDB), WinForms, Supabase, MongoDB, 
 
-Development Tools & Environments:
+**Development Tools & Environments:**
 IntelliJ IDEA, Visual Studio, Visual studio code, pgAdmin4, MongoDB Compass, Git & Github
 
-Cloud:
+**Cloud:**
 Supabase, AWS, Oracle (touched on it).
 
-Projects: 
+**Projects: **
 
 ESP32 Microcontroller predicting Water Hyacinth growth at HartbeesPoort Dam, collaborated with international students from Belgium--[https://github.com/LianBosman/Mega_Project]
 
