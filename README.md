@@ -1,7 +1,10 @@
 # Lian-Bosman
 
 I am a 3rd-year Bachelor of Computing student at Belgium Campus ITversity, Stellenbosch, specialising in Software Engineering.
-Skeeking internship/ graduate opportunities in software development
+
+Currently seeking internship/ graduate opportunities in software development
+
+
 Skills:
 Prorgamming: C#, Java, JavaScript, SQL, Node.js, HTML & CSS, Python ( touched on it with Machine Learning).
 
