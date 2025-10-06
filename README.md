@@ -1,5 +1,5 @@
 # Lian-Bosman
-My profile
+
 I am a 3rd-year Bachelor of Computing student at Belgium Campus ITversity, Stellenbosch, specialising in Software Engineering.
 Skeeking internship/ graduate opportunities in software development
 Skills:
