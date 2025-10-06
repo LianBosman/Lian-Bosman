@@ -15,6 +15,7 @@ Cloud:
 Supabase, AWS, Oracle (touched on it).
 
 Projects: 
+
 ESP32 Microcontroller predicting Water Hyacinth growth at HartbeesPoort Dam, collaborated with international students from Belgium--[https://github.com/LianBosman/Mega_Project]
 
 Student Management System
